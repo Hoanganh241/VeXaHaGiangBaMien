@@ -1,0 +1,96 @@
+{
+    "timeline": {
+        "id": 398,
+        "title": "video1",
+        "start_at": "2023-02-02",
+        "end_at": "2023-02-28",
+        "type": "daily",
+        "schedules": [
+            {
+                "type": 1,
+                "day": 0,
+                "contents": []
+            },
+            {
+                "type": 1,
+                "day": 1,
+                "contents": []
+            },
+            {
+                "type": 1,
+                "day": 2,
+                "contents": []
+            },
+            {
+                "type": 1,
+                "day": 3,
+                "contents": []
+            },
+            {
+                "type": 1,
+                "day": 4,
+                "contents": []
+            },
+            {
+                "type": 1,
+                "day": 5,
+                "contents": []
+            },
+            {
+                "type": 1,
+                "day": 6,
+                "contents": []
+            },
+            {
+                "type": 0,
+                "day": 7,
+                "contents": [
+                    {
+                        "id": 185,
+                        "duration": 23,
+                        "screen_resolution": "1920x1080",
+                        "choose_app_remote": 0,
+                        "start_time": "00:00",
+                        "end_time": "24:00",
+                        "udp_type": null,
+                        "udp_key": null,
+                        "layers": [
+                            {
+                                "id": 1003,
+                                "x": "0",
+                                "y": "0",
+                                "w": "1920",
+                                "h": "1080",
+                                "order": 1,
+                                "medias": [
+                                    {
+                                        "id": 351,
+                                        "type": "video",
+                                        "name": "bd9041df-452f-4b70-bf97-45b3a78b3b10_1675332279.mp4",
+                                        "title": "1.mp4",
+                                        "text_content_layer": null,
+                                        "text_content_layer_effect": null,
+                                        "text_content_layer_background": null,
+                                        "text_content_layer_color": null,
+                                        "text_content_layer_speed": null,
+                                        "font_size": null,
+                                        "src": "https:\/\/acps-dev-digital-20210909162555117400000001.s3.ap-northeast-1.amazonaws.com\/media\/upload\/4q0pURZBPyE5ybQz94ClafqU0ut8qruEHmDj51YG.mp4",
+                                        "start_time": 0,
+                                        "end_time": 23,
+                                        "duration": 23,
+                                        "order": 1,
+                                        "events": [],
+                                        "isAdvertises": false
+                                    }
+                                ]
+                            }
+                        ],
+                        "sync_multiple_devices": 0,
+                        "end_type": null,
+                        "playback_time": null
+                    }
+                ]
+            }
+        ]
+    }
+}
